@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(80, 135, 255, 0.937);
+    border-radius: 20px;
+    width: 80vh;
+    height: 60vh;
+    margin-top: 9%;
+
+}
+
+.div1 h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+
+}
+
+.div1 button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 20px;
+    cursor: pointer;
+    color: red;
+    font-size: 18px;
+    margin-top: 10px;
+    border-radius: 20px;
+    border: none;
+    
+}
+
+.div1 span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 19px;
+    color: red;
+    
+}
+
+.div2 h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+
+}
+
+.div2 button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 20px;
+    cursor: pointer;
+    color: red;
+    font-size: 18px;
+    margin-top: 10px;
+    border-radius: 20px;
+    border: none;
+    
+}
+
+.div2 span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 19px;
+    color: red;
+    
+}
+
+.dark-mode {
+    background-color: black; 
+    color: #fff;
+    
+}
+
+
+#troca-fundo {
+    width: 80px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: #fff;
+    color: red;
+    font-size: 19px;
+    border: none;
+}
+
+
